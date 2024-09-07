@@ -14,6 +14,6 @@ If you're just starting out and need to prioritize your learning, focus on the f
 
 **SciPy**: Adds additional functionality for scientific and technical computing, including modules for optimization, integration, and interpolation.
 
-**Math**: Provides mathematical functions that are not covered by the built-in Python library.
+**Math**: Provides mathematical functions that are not covered by the built-in Python.
 
 **Datetime**: Essential for handling and manipulating date and time data.
